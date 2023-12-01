@@ -1,9 +1,3 @@
-# Awesome Link App using GraphQL, NextJS, TypeScript, Prisma
+# Task Manager App using GraphQL and NextJS
 
-This is an app where a user can bookmark favorite links and it is built to familiarize the following technologies:
-
-- GraphQL
-- NextJS
-- TypeScript
-- Prisma
-- Tailwind CSS
+This is an app where a user can list out daily tasks and to familiarize GraphQL and NextJS.
